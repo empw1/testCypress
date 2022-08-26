@@ -1,0 +1,14 @@
+{
+  "name": "teste-venturus",
+  "version": "1.0.0",
+  "description": "teste de automação em cypress para Venturus",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ricardo Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}

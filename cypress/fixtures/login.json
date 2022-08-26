@@ -1,0 +1,26 @@
+{
+    "login": {
+        "username": "testuser",
+        "password": "jr123"
+    },
+    "username_inv": {
+        "username": "",
+        "password": "jr123"
+    },
+    "password_inv": {
+        "username": "testuser",
+        "password": ""
+    },
+    "characters_inv": {
+        "username": "999999999",
+        "password": "AAAAAAAAA"
+    },
+    "more_than": {
+        "username": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "password": "999999999999999999999999999999999999999999"
+    },
+    "less_than": {
+        "username": "a",
+        "password": "1"
+    }
+}
